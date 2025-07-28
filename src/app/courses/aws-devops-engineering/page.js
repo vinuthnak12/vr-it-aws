@@ -60,7 +60,7 @@ export default function AWSDevOpsEngineering() {
             <div>
               <h2 className="text-3xl font-bold text-white mb-6">Course Overview</h2>
               <p className="text-gray-300 text-lg leading-relaxed mb-6">
-                This advanced course focuses on DevOps practices and automation using AWS services. You'll learn to build robust CI/CD pipelines, implement Infrastructure as Code, and automate deployment processes for modern applications.
+                This advanced course focuses on DevOps practices and automation using AWS services. You&apos;ll learn to build robust CI/CD pipelines, implement Infrastructure as Code, and automate deployment processes for modern applications.
               </p>
               <p className="text-gray-300 text-lg leading-relaxed">
                 Perfect for developers, system administrators, and IT professionals looking to streamline software delivery and embrace DevOps culture in cloud environments.
@@ -68,7 +68,7 @@ export default function AWSDevOpsEngineering() {
             </div>
             <div className="relative">
               <div className="rounded-2xl bg-gradient-to-br from-cyan-500/20 to-cyan-600/30 p-8 backdrop-blur-sm border border-cyan-500/30">
-                <h3 className="text-xl font-bold text-white mb-4">What You'll Master</h3>
+                <h3 className="text-xl font-bold text-white mb-4">What You&apos;ll Master</h3>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
                     <span className="text-cyan-400 mt-1">🚀</span>

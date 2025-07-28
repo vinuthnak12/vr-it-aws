@@ -71,7 +71,7 @@ export default function Home() {
             </h1>
             
             <p className="mx-auto mt-8 max-w-3xl text-xl leading-8 text-gray-300" itemProp="description">
-              Join Hyderabad's leading AWS DevOps training institute. Located in Ameerpet near Satyam Theatre, 
+              Join Hyderabad&apos;s leading AWS DevOps training institute. Located in Ameerpet near Satyam Theatre, 
               we specialize in comprehensive DevOps, Cloud, and Data engineering programs with hands-on experience, 
               industry partnerships, and guaranteed placement support for professionals across Telangana.
             </p>
@@ -139,7 +139,7 @@ export default function Home() {
               </div>
               <h3 className="text-xl font-semibold text-white">AWS Certified Trainers</h3>
               <p className="mt-2 text-gray-300">
-                Learn from industry veterans with AWS certifications and hands-on experience from Hyderabad's top tech companies
+                Learn from industry veterans with AWS certifications and hands-on experience from Hyderabad&apos;s top tech companies
               </p>
             </div>
             
@@ -159,7 +159,7 @@ export default function Home() {
               </div>
               <h3 className="text-xl font-semibold text-white">Industry Partnerships</h3>
               <p className="mt-2 text-gray-300">
-                Direct partnerships with Hyderabad's leading tech companies and excellent placement support across the city
+                Direct partnerships with Hyderabad&apos;s leading tech companies and excellent placement support across the city
               </p>
             </div>
 
@@ -169,7 +169,7 @@ export default function Home() {
               </div>
               <h3 className="text-xl font-semibold text-white">Placement Support</h3>
               <p className="mt-2 text-gray-300">
-                Dedicated placement assistance with connections to Hyderabad's booming tech ecosystem and startup community
+                Dedicated placement assistance with connections to Hyderabad&apos;s booming tech ecosystem and startup community
               </p>
             </div>
           </div>
@@ -192,7 +192,7 @@ export default function Home() {
               </div>
               <h3 className="text-xl font-semibold text-white">Live Industry Projects</h3>
               <p className="mt-2 text-gray-400">
-                Work on real-world projects from Hyderabad's tech companies in fintech, healthcare, and e-commerce sectors
+                Work on real-world projects from Hyderabad&apos;s tech companies in fintech, healthcare, and e-commerce sectors
               </p>
             </div>
             
@@ -217,7 +217,7 @@ export default function Home() {
               Best AWS DevOps Courses in Hyderabad 2025
             </h2>
             <p className="mt-4 text-xl text-gray-400" itemProp="description">
-              Comprehensive AWS training programs designed for Hyderabad's tech professionals with guaranteed placements
+              Comprehensive AWS training programs designed for Hyderabad&apos;s tech professionals with guaranteed placements
             </p>
           </div>
           
@@ -231,7 +231,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="mt-4 text-gray-300">
-                Build enterprise-grade cloud solutions. Master the foundation that powers Hyderabad's digital economy.
+                Build enterprise-grade cloud solutions. Master the foundation that powers Hyderabad&apos;s digital economy.
               </p>
               <ul className="mt-6 space-y-3 text-gray-300 flex-grow">
                 <li className="flex items-center">
@@ -278,7 +278,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="mt-4 text-gray-300">
-                Automate and scale like Hyderabad's leading tech companies. Master CI/CD, containers, and infrastructure automation.
+                Automate and scale like Hyderabad&apos;s leading tech companies. Master CI/CD, containers, and infrastructure automation.
               </p>
               <ul className="mt-6 space-y-3 text-gray-300 flex-grow">
                 <li className="flex items-center">
@@ -325,7 +325,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="mt-4 text-gray-300">
-                Build scalable data pipelines like Hyderabad's data-driven companies. Master AWS data services and analytics solutions.
+                Build scalable data pipelines like Hyderabad&apos;s data-driven companies. Master AWS data services and analytics solutions.
               </p>
               <ul className="mt-6 space-y-3 text-gray-300 flex-grow">
                 <li className="flex items-center">
@@ -371,14 +371,14 @@ export default function Home() {
         <div className="mx-auto max-w-5xl text-center">
           <div className="relative">
             <h2 className="text-5xl font-bold text-white sm:text-6xl mb-6">
-              Join Hyderabad's{" "}
+              Join Hyderabad&apos;s{" "}
               <span className="bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 bg-clip-text text-transparent">
                 DevOps Revolution
               </span>
             </h2>
             <p className="mt-6 text-xl text-gray-300 max-w-3xl mx-auto">
               From the innovative corridors of HITEC City to the emerging tech parks of Gachibowli - 
-              be part of Hyderabad's massive digital transformation and join the city's most prestigious AWS DevOps program.
+              be part of Hyderabad&apos;s massive digital transformation and join the city&apos;s most prestigious AWS DevOps program.
             </p>
             
             {/* Achievement Highlights */}
@@ -560,7 +560,7 @@ export default function Home() {
                     </h4>
                     <div itemScope itemType="https://schema.org/Answer" itemProp="acceptedAnswer">
                       <p className="text-gray-300 leading-relaxed" itemProp="text">
-                        Absolutely! Hyderabad is India's major tech hub with highest demand for AWS DevOps professionals. 
+                        Absolutely! Hyderabad is India&apos;s major tech hub with highest demand for AWS DevOps professionals. 
                         Companies like Microsoft, Amazon, Google, and hundreds of startups across the city actively hire 
                         <strong className="text-pink-400"> AWS DevOps engineers</strong> with competitive packages.
                       </p>
@@ -923,7 +923,7 @@ Looking forward to hearing from you!`;
       {/* Floating WhatsApp Button */}
       <button
         onClick={() => {
-          const whatsappMessage = `👋 Hi! I'm interested in AWS DevOps training at your Hyderabad institute.
+          const whatsappMessage = `👋 Hi! I&apos;m interested in AWS DevOps training at your Hyderabad institute.
 
 🏢 *Institute:* awsdevopstraininghyderabad.com
 📍 *Location:* HITEC City, Hyderabad

@@ -60,15 +60,15 @@ export default function AWSCloudFundamentals() {
             <div>
               <h2 className="text-3xl font-bold text-white mb-6">Course Overview</h2>
               <p className="text-gray-300 text-lg leading-relaxed mb-6">
-                This comprehensive course is designed for beginners who want to understand cloud computing fundamentals and gain hands-on experience with AWS core services. You'll learn essential concepts, best practices, and practical skills needed to work with AWS in real-world scenarios.
+                This comprehensive course is designed for beginners who want to understand cloud computing fundamentals and gain hands-on experience with AWS core services. You&apos;ll learn essential concepts, best practices, and practical skills needed to work with AWS in real-world scenarios.
               </p>
               <p className="text-gray-300 text-lg leading-relaxed">
-                By the end of this course, you'll be confident in deploying, managing, and optimizing AWS resources, and you'll be well-prepared for AWS certification exams.
+                By the end of this course, you&apos;ll be confident in deploying, managing, and optimizing AWS resources, and you&apos;ll be well-prepared for AWS certification exams.
               </p>
             </div>
             <div className="relative">
               <div className="rounded-2xl bg-gradient-to-br from-blue-500/20 to-blue-600/30 p-8 backdrop-blur-sm border border-blue-500/30">
-                <h3 className="text-xl font-bold text-white mb-4">What You'll Achieve</h3>
+                <h3 className="text-xl font-bold text-white mb-4">What You&apos;ll Achieve</h3>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
                     <span className="text-blue-400 mt-1">🎯</span>
@@ -260,7 +260,7 @@ export default function AWSCloudFundamentals() {
                 <h3 className="text-xl font-bold text-blue-400 mb-4">What You Need</h3>
                 <ul className="space-y-2 text-gray-300">
                   <li>• Computer with internet connection</li>
-                  <li>• AWS account (we'll help you set up)</li>
+                  <li>• AWS account (we&apos;ll help you set up)</li>
                   <li>• Willingness to learn and practice</li>
                   <li>• Dedication to complete hands-on labs</li>
                 </ul>

@@ -60,7 +60,7 @@ export default function AWSDataEngineering() {
             <div>
               <h2 className="text-3xl font-bold text-white mb-6">Course Overview</h2>
               <p className="text-gray-300 text-lg leading-relaxed mb-6">
-                This comprehensive course covers the entire data engineering lifecycle on AWS. You'll learn to design, build, and maintain robust data architectures that can handle massive scale and complex analytics workloads.
+                This comprehensive course covers the entire data engineering lifecycle on AWS. You&apos;ll learn to design, build, and maintain robust data architectures that can handle massive scale and complex analytics workloads.
               </p>
               <p className="text-gray-300 text-lg leading-relaxed">
                 Ideal for data professionals, software engineers, and analysts looking to transition into the high-demand field of data engineering with cloud-native solutions.
@@ -68,7 +68,7 @@ export default function AWSDataEngineering() {
             </div>
             <div className="relative">
               <div className="rounded-2xl bg-gradient-to-br from-purple-500/20 to-purple-600/30 p-8 backdrop-blur-sm border border-purple-500/30">
-                <h3 className="text-xl font-bold text-white mb-4">What You'll Build</h3>
+                <h3 className="text-xl font-bold text-white mb-4">What You&apos;ll Build</h3>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
                     <span className="text-purple-400 mt-1">📊</span>
