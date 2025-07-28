@@ -1,6 +1,9 @@
 pipeline {
     agent any
 
+tools {
+    nodejs 'nodejs24'  // "Node18" should match the name you configured in Jenkins > Global Tool Configuration
+}
     environment {
         DOCKER_IMAGE = 'your-dockerhub-username/your-nextjs-app:latest'
         KUBECONFIG_CREDENTIAL_ID = 'kubeconfig-credentials'
