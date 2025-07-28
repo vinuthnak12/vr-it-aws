@@ -9,7 +9,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/venkatalokeshanne/vr-it-aws.git'
+                git 'https://github.com/vinuthnak12/vr-it-aws.git'
             }
         }
 
